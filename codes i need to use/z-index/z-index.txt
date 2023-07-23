@@ -1,0 +1,15 @@
+z-index - for overlapping 
+
+"the higher the value it is priority on top"
+
+to move top object use negative margin
+to mmove left/right use margin
+
+use position:relative on both division if you use negative value.
+
+{z-index: value;
+ postion: relative/absulote/fixed/
+
+
+
+

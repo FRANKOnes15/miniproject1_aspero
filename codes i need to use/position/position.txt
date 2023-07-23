@@ -1,0 +1,9 @@
+position: use for specific element for positioning
+
+{position:static,relative,fixed,absolute,sticky;
+
+static:default
+relative:normal position
+fixked:position vieport stay the same
+absulote:nearest position ancestor
+sticky:based on user manual position or scroll position

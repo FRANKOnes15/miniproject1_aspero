@@ -1,0 +1,8 @@
+shadow-to put shadow effect
+				(blur)
+{text-shadow: 30px	0px	0px	   color;
+	  (horizontal	(vertical offset)	
+	   position)		down
+to make it upper left make it neagtive
+
+{box-shadow:} color-rgba(128,170,183,.7- opacity)

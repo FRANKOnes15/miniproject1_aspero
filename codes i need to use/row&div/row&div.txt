@@ -1,0 +1,24 @@
+row-splitting divisions into row
+
+<div class="row">
+	
+<div class="content" width="50%">
+	sample
+</div>
+
+<div class="content" width="30%">
+	sample
+
+<div class="content" width="20%>
+	sample
+
+</div>
+
+
+
+
+
+
+
+
+</div>
